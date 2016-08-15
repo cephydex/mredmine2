@@ -86,7 +86,6 @@ GEM
     mocha (1.1.0)
       metaclass (~> 0.0.1)
     multi_json (1.12.1)
-    mysql2 (0.3.21-x64-mingw32)
     net-ldap (0.12.1)
     nokogiri (1.6.8-x64-mingw32)
       mini_portile2 (~> 2.1.0)
